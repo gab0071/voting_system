@@ -4,7 +4,7 @@
 
 <p>I had a lot of fun doing this project, imagining so many possible cases in which we can involve blockchain technology to improve everyday processes, and also add much more transparency in the process. </p>
 
-<p>In this project, we can find the necessary functions to carry out a fair and transparent vote, where a function with a limited time to register as many candidates as you want (you can change this time), another function to vote and at the same time verify that you can only vote once, you can also see the results of the votes in real time, to finish we have a function that after the time we indicate allows us to see the winner of the vote.</p>
+<p>In this project, we can find the necessary functions to carry out a fair and transparent vote, where a function with a limited time to register as many candidates as you want <strong>(you can change this time)</strong>, another function to vote and at the same time verify that you can only vote once, you can also see the results of the votes in real time, to finish we have a function that after the time we indicate allows us to see the winner of the vote.</p>
 
 <p>I hope that if you implement it and try it you will like it as much as I do.</p>
 
