@@ -1,5 +1,7 @@
 <h1>Voting System with Solidity ⛓🗳</h1>
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 <p>I made a smart contract, simulating a voting system, which can be used for multiple purposes, such as voting for the president of a classroom, even more important issues such as a country's presidential election.</p> 
 
 <p>I had a lot of fun doing this project, imagining so many possible cases in which we can involve blockchain technology to improve everyday processes, and also add much more transparency in the process. </p>
