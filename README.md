@@ -1,6 +1,27 @@
 <h1>Voting System with Solidity ⛓🗳</h1>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  <a href="https://github.com/gab0071/voting_system/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/gab0071/voting_system" alt="Badge showing average commit frequency per month"/>
+  </a>
+
+  <a href="https://github.com/gab0071/voting_system/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/gab0071/voting_system" alt="Badge showing when the last commit was made"/>
+  </a>
+
+  <a href="https://github.com/gab0071/voting_system/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/gab0071/voting_system" alt="Badge showing the total of project issues"/>
+  </a>
+  
+  <a href="https://www.npmjs.com/package/prettier-plugin-solidity" target="_blank">
+    <img src="https://img.shields.io/badge/prettier%20plugin%20solidity-1.0.0-pink.svg" alt="Badge showing the prettier plugin solidity version"/>
+  </a>
+  
+  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  </a>
+  
+  <br>
+  <br>
 
 <p>I made a smart contract, simulating a voting system, which can be used for multiple purposes, such as voting for the president of a classroom, even more important issues such as a country's presidential election.</p> 
 
@@ -16,9 +37,19 @@
 
 <h2> Installing / Getting started </h2>
 
-```
-npm install
-```  
+```bash
+
+# Clone this project
+$ git clone https://github.com/gab0071/voting_system
+
+# Access
+$ cd voting_system
+
+# Install dependencies
+$ yarn
+
+``` 
+
 <p>Drop all necessary dependencies</p>
 <hr>
 
